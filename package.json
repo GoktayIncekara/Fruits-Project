@@ -1,0 +1,15 @@
+{
+  "name": "fruits-project",
+  "version": "1.0.0",
+  "description": "Fruits DB Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Goktay",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3"
+  }
+}
